@@ -49,15 +49,6 @@ The model learns the relationship between historical years and world population 
 
 The model can predict world population for a specified year, including 2030.
 
-## Project Structure
-
-
-World-Population-Prediction/
-├── main.ipynb
-├── population.csv
-├── linear_regression_model1.pkl
-└── README.md
-
 
 ## How to Run
 
